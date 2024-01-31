@@ -1,5 +1,6 @@
-# Nuxt 3 Minimal Starter
+# BRCBank FrontEnd Demo
 
+This project uses Nuxt3, Vuetify3, TailwindCss.
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
@@ -36,7 +37,7 @@ Locally preview production build:
 pnpm run preview
 ```
 
-BUILD & DEPLOY PROCESS
+BUILD & DEPLOY PROCESS with pm2
 ```bash
 git pull
 pnpm i
